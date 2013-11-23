@@ -119,7 +119,7 @@ moot.language = {
    ok: 'ok',
    online: 'Online',
    post: 'Posteaza',
-   preview: 'Preview',
+   preview: 'Cum va arata',
    progress: ['incarca...', 'inca se incarca...', 'inca putin...', 'am renuntat'],
    reconnect: 'Se re-conecteaza...',
    removecat: 'Sterge. Posturile nu vor fi sterse',
