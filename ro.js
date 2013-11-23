@@ -118,7 +118,7 @@ moot.language = {
    notify: 'Anunta-ma cand apar versiuni noi',
    ok: 'ok',
    online: 'Online',
-   post: 'Post',
+   post: 'Posteaza',
    preview: 'Preview',
    progress: ['incarca...', 'inca se incarca...', 'inca putin...', 'am renuntat'],
    reconnect: 'Se re-conecteaza...',
